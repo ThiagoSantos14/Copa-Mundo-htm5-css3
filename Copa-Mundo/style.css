@@ -1,0 +1,22 @@
+.titulo01 {
+    background-color: black;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+.navegacao {
+    text-align: right;
+    background-color: white;
+
+}
+
+.titulo02, .titulo02, .titulo03, .titulo04 {
+    background-color: gray;
+    color: white;
+}
+
+.rodape {
+    background-color: black;
+    color: white;
+}
